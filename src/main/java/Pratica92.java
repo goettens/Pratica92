@@ -7,7 +7,7 @@ import java.io.IOException;
  * Template de projeto de programa Java usando Maven.
  * @author Wilson Horstmeyer Bogado <wilson@utfpr.edu.br>
  */
-public class Pratica92 {
+public class Pratica92{
     
     public static void main(String[] args) throws IOException {
         Show s = new Show();
